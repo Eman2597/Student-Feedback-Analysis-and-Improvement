@@ -5,3 +5,5 @@ Project Phases
     3. Sentiment Analysis 
     4. Mlops and deployment
 
+link dataset and all material: https://drive.google.com/drive/folders/1PsFBsYAzl9XR1qcBmPseSdtK08XiHCxm?usp=sharing 
+
